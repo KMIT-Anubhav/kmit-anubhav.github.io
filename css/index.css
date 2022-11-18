@@ -5,6 +5,9 @@
 }
 
 html, body {
-    background: var(--beige);
-    color: var(--red);
+    background-color: #e5e5f7;
+    opacity: 0.8;
+    background-image:  repeating-radial-gradient( circle at 0 0, transparent 0, #e5e5f7 10px ), repeating-linear-gradient( #56c8c955, #56c8c9 );
+/*     color: var(--red); */
 }
+
