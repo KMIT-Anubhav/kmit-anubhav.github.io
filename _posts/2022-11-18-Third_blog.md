@@ -5,7 +5,7 @@ date : 2022-11-18
 # Just testing the third blog.
 Testing this time from mobile, with code.
 
-```c
+```
 #include <stdio.h>
 
 int main() {
