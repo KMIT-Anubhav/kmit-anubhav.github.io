@@ -5,16 +5,14 @@
 }
 
 body {
-   /* background-color: #e5e5f7;
-    background-opacity: 1;
-    background-image:  linear-gradient(30deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(150deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(30deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(150deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(60deg, #56c8c977 25%, transparent 25.5%, transparent 75%, #56c8c977 75%, #56c8c977), linear-gradient(60deg, #56c8c977 25%, transparent 25.5%, transparent 75%, #56c8c977 75%, #56c8c977);
-    background-size: 30px 53px;
-    background-position: 0 0, 0 0, 15px 26px, 15px 26px, 0 0, 15px 26px;
-/*     color: var(--red); */ 
-    
-    background-color: #e5e5f7;
-    opacity: 0.8;
-    background-size: 20px 20px;
-    background-image:  repeating-linear-gradient(0deg, #78c1ff, #78c1ff 1px, #e5e5f7 1px, #e5e5f7);
+   background:
+linear-gradient(27deg, #eaeaea 5px, transparent 5px) 0 5px,
+linear-gradient(207deg, #eaeaea 5px, transparent 5px) 10px 0px,
+linear-gradient(27deg, #ddd 5px, transparent 5px) 0px 10px,
+linear-gradient(207deg, #ddd 5px, transparent 5px) 10px 5px,
+linear-gradient(90deg, #e4e4e4 10px, transparent 10px),
+linear-gradient(#e2e2e2 25%, #e5e5e5 25%, #e5e5e5 50%, transparent 50%, transparent 75%, #dbdbdb 75%, #dbdbdb);
+background-color: #ececec;
+background-size: 20px 20px;
 }
 
