@@ -1,9 +1,3 @@
-:root{
-    --red: #ff6f69;
-    --beige: #ffeead;
-    --yellow: #ffcc5c;
-}
-
 body {
    background:
 linear-gradient(27deg, #eaeaea 5px, transparent 5px) 0 5px,
