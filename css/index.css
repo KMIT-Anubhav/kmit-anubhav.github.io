@@ -6,7 +6,7 @@
 
 body {
     background-color: #e5e5f7;
-    opacity: 0.4;
+    background-opacity: 1;
     background-image:  linear-gradient(30deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(150deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(30deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(150deg, #56c8c9 12%, transparent 12.5%, transparent 87%, #56c8c9 87.5%, #56c8c9), linear-gradient(60deg, #56c8c977 25%, transparent 25.5%, transparent 75%, #56c8c977 75%, #56c8c977), linear-gradient(60deg, #56c8c977 25%, transparent 25.5%, transparent 75%, #56c8c977 75%, #56c8c977);
     background-size: 30px 53px;
     background-position: 0 0, 0 0, 15px 26px, 15px 26px, 0 0, 15px 26px;
