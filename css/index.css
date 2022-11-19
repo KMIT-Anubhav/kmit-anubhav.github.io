@@ -18,6 +18,16 @@ body {
    font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
 }
 
+@media only screen and (max-width: 800px){
+   .footer-col-3 {
+    width: calc(65% - (40px / 2));
+    padding-left: 9px;
+    font-size: larger;
+    color: dimgray;
+}
+   
+}
+
 .footer-col-3 {
     width: calc(35% - (40px / 2));
     padding-left: 95px;
