@@ -1,3 +1,3 @@
-# Jekyll Code
+# About
 
-This is a blog where students can freely share their ideas and express their views without worrying about being judged.
+This is a blog where students can freely express their ideas and share their views without worrying about being judged.
