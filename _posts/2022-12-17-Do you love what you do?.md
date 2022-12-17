@@ -9,5 +9,5 @@ Albert Einstein once said - “You can’t judge a fish by its ability to climb 
 
 <b>LOVE WHAT YOU DO</b>. If you don't love your job now then start loving it. It's never too late! Tell your younger siblings to follow their passion. Ask them what they love and tell your parents what your siblings love and stand up for them. At least from now onwards there shouldn't be a talented student wasting their energy on things they don't like, because real talent comes out when he loves what he learns. You shouldn't look back on your life and regret it. Instead you should look back on your life and cherish every moment of it because you know that you did what you enjoy most. It might be gaming, it might be photography, it might even be politics but it is something you love and that's what makes it the most important job in the world. In the end what I want to say is:
 
-<h2 style="text-align:center;"><i> Do what you love and cherish every moment of it.</i></h2>
+<h2 style="text-align:center;"><i> Do what you love and cherish every moment of it!!!</i></h2>
 
