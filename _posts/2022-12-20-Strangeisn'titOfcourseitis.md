@@ -1,5 +1,7 @@
+---
 title: "Strange isn't it?(Ofcourse it is)"
 date: 2022-12-20
+---
 What's the strangest thing you have seen?
 My answer - Human Being.
 Why?
